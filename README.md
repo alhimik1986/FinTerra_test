@@ -1,2 +1,2 @@
-# test_for_job
-it's test task for my future job!
+# FinTerra_test
+Тестовое задание для микрофинансовой организации.
